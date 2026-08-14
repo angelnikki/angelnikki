@@ -37,4 +37,5 @@ I am a computer studies student focused on turning complex logic into practical 
 
 ### Let's Connect
 ↳ **LinkedIn:** https://www.linkedin.com/in/angel-nikki-soliveres/
+
 ↳ **Email:** ancsoliveres@gmail.com
