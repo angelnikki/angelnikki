@@ -7,6 +7,8 @@
 
 I am a 3rd-year computer science student and technical lead focused on turning complex logic into practical software solutions. From managing real-world client projects to architecting administrative systems and full-stack platforms, I enjoy bridging the gap between backend architecture and UI/UX design.
 
+![Profile views](https://counter.kuber.studio/angelnikki/hacker/count.svg)
+
 ### What I'm Building
 ▹ **Real-World Client Solutions:** Serving as Project Manager and Tech Lead for a university-endorsed registrar system serving students, alumni, evaluators, and super admins.
 
@@ -44,3 +46,5 @@ I am a 3rd-year computer science student and technical lead focused on turning c
 ↳ **LinkedIn:** https://www.linkedin.com/in/angel-nikki-soliveres/
 
 ↳ **Email:** ancsoliveres@gmail.com
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelnikki&theme=dark" alt="angelnikki" /></p>
