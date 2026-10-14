@@ -47,4 +47,4 @@ I am a 3rd-year computer science student and technical lead focused on turning c
 
 ↳ **Email:** ancsoliveres@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelnikki&theme=dark" alt="angelnikki" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelnikki&theme=rose)](https://git.io/streak-stats)
